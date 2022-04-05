@@ -20,7 +20,7 @@ The best place to find Alexander was at dinner. Part of his air of mystery was
 his hours of coming and going, but you could usually count on him to show up
 when the steel slots opened and slid out the evening's portion. Plus, skipping
 dinner was one thing that didn't fly with Ma. Our pod was big, one of the
-biggest in the dome at thirty-three, but Ma made sure everyone knew there were
+biggest in the Dome at thirty-three, but Ma made sure everyone knew there were
 consequences for missing dinner more than once or twice a week. 
 
 I spotted him at the head of one of the long, rectangular tables off to the side
@@ -57,10 +57,10 @@ people change the Manual for any reason they want," Pop said.
 
 "Sorry, Manual says it's got to be up there until next sleep cycle. Book seven,
 chapter forty-three, right between the section on hot swapping chips and what to
-when the fucking _dome_ collapses," Pop replied.
+when the fucking _Dome_ collapses," Pop replied.
 
-"The dome isn't going to fucking _collapse_ because I didn't walk until my feet
-bled crossing the dome cleaning dust traps in the right order," Wino said. I
+"The Dome isn't going to fucking _collapse_ because I didn't walk until my feet
+bled crossing the Dome cleaning dust traps in the right order," Wino said. I
 could tell this was a good argument. It was also an argument we had nearly
 beaten to death, and probably the reason we clung to Alexander's domer
 coveralls together. Ma Bell, Uncle Jerry, Mike, a lot of the folks who really
@@ -110,14 +110,138 @@ We left our podspace and walked together quietly until about 400.
 
 "No," he replied.
 
-"Two sums are wrong. The pages at 0xFF5A43BF and 0xFF553BF. But they're not
-just wrong, they're..." I paused, trying to think of the right word to use,
-"...coherently wrong," I finally settled on.
+"The sums have been wrong. I have a list of the pages. They've been wrong for a
+few cycles now. The sector starting at 0xFF5A43BF. But they're not just wrong,
+they're..." I paused, trying to think of the right word to use, "...coherently
+wrong," I finally decided.
 
-"It started three days ago. The sum on the first page was off, and eventually
-I found an entropic bit. The Manual tells you how to fix entropied sectors, and
-the sums came out right after. The next day, I found a bad sum on the page
-dead in the middle of my sector. But what I couldn't explain was that the
-offsets into both pages were the same. Location 1,347," I said.
+"It started five cycles ago. The sum on the middle page of my sector was
+off. Eventually I found some entropic bits. The Manual tells you how to fix
+entropied sectors, and the sums came out right after I fixed htem. The next day,
+I found a bad sum on the page right between the first page, and the middle page
+I had fixed yesterday. But what I couldn't explain was that the offsets into
+both pages were the same. Location 1,347," I said.
 
-"I
+I expected Alexander to show some surprise here, but he just kept walking. His
+face was turned toward a point in space, like a man thinking.
+
+I waited a moment to see if he was going to say anything. "If it was just that,
+I might not have said anything. Entropied sectors happen all the time. You fix
+them, sometimes they stick around for a few cycles, but they always go away," I
+said. "But every cycle, a new page would be corrupted in the same way. The same
+bits at the same location, just a different page," I continued.
+
+"Yesterday, it was the same thing. Sector 0xFF5A43BF, page 0x8. I fixed it. But
+today..." I trailed off. "Uhm, Alex?" I asked. I was the only one who would ever
+call him Alex.
+
+"Hm?" he replied. His thought was disrupted for a moment.
+
+"This is, uhm, this is going to make me sound, well, kind of crazy. Not just
+weird."
+
+"That's fine. I wouldn't have asked if I didn't want to know." he said.
+
+"Okay," I said. "Today, the Manual was wrong." That caught his attention. He wasn't
+abstracted in thought anymore. His face darkened, and his eyes burned. I waited
+again to see if he would say anything. But nothing, so I kept going.
+
+"Uhm, yeah. The sum changed. Not the one the Dome spit out. The sum in the
+manual. I distinctly remember checking it yesterday, I remember exactly what the
+Manual said. I kept track of the sums that the Dome was giving me every day,
+because it was so strange. Yesterday, I fixed an entropic bit at that sector so
+the sum would match the Manual. Today, the Manual had _changed_ to say the sum
+was the one I fixed yesterday. The Manual _changed_, Alexander."
+
+We didn't slow as we walked. And Alexander didn't say anything. We approached
+the sector where I'd been doing sums. I slowed to a stop to key in, but
+Alexander kept walking. "Come on," he said. "Not here."
+
+We kept walking, circling back around to the 390s, taking a rarely-used tunnel
+through some of the sectors for the Dome's self-patching functionality. I was
+pretty familiar with this part of the Dome, but I wasn't sure where we were
+until we popped out near a wide walkway near our pod on surface level. We pulled
+into our pod. Alexander made a clear effort to tone back his intensity through
+the common room, where the group that tended a few years older than me and my
+crechemates were engrossed in a loud card game. No one noticed him, and we
+slipped into his room.
+
+"What do you think of what you just told me? Does anything stick out to you?" he
+asked me as soon as we were inside.
+
+Besides the Manual changing, I thought? But being sarcastic to Alexander wasn't
+a good idea. He deserved more respect than that, anyway. "Well, the offsets. If,
+you know, if it was random, there's no way that it would be the same offset four
+days in a row."
+
+"Right. That leaves us with two possibilities. The first: There is some hardware
+malfunction. One that might not be covered by the Manual, or might be so deep
+that it's been lost for an era. The second: External intervention," he said.
+
+"Uhm, Alex, I don't like either of those. I mean, we talk about how the Manual
+might be flawed and stuff, but, but that's just talk, right? Just philosophy?"
+
+"Everything is talk until it isn't, Chare," he said. I didn't have anything to
+say. We talked more about what each possibility might mean. It was a strange
+conversation. I felt that Alexander wasn't telling me everything that he
+knew. He kept asking me questions, as if he wanted me to piece this together
+myself. I felt us going in circles.
+
+"What are we going to do?" I asked. "I don't know how you could even figure out
+something like this."
+
+"Hm. I think it's pretty simple, Chare. Each sector that we Maintain maps onto
+_something_ that the Dome does. All we have to do is look. Find something
+different about the Dome. That's our advantage. The Dome _never_ changes. Even
+the smallest difference will stick out," he said.
+
+"It's not easy. It could turn out to be nothing. A simple hardware malfunction,
+something we find in the errata of the Manual. But you have to look," he said.
+
+I couldn't think of anything to say. Alexander looked like he was debating
+something again. I saw him decide, and he took me by the shoulders. "You're not
+the only one looking, Chare. I just can't tell you everything. It's not because
+I don't trust you. It's just..." he trailed off. His confidence and dark energy
+parted for just a moment to a tenderness. "If I told you, and I was wrong, it
+would be very bad," he said softly.
+
+His softness terrified me. Alexander was not soft. "OK," I managed.
+
+"But I want you to think about what you saw. Think hard. And keep looking," he
+said. I gave a meek nod, and left for my quarters. I wasn't old enough to have
+my own quarters yet. When I came in, Stew was in a corner writing something
+slowly on a pad. Wino and Foley were sitting on the high bed, playing some two
+person card game. I didn't want to talk to anybody, so I went to my bed, sealed
+off the entry into the small, boxed chamber, and put my pillow around my head.
+
+Think. Think hard. I was bright. Sums was easy, but I wasn't doing sums because
+I was stupid. The Dome materialized any necessity or luxury we needed -- there
+was no need for anything resembling industry, nor innovation, nor anything in
+fact that the material world provided. Besides the fact that the Dome provided,
+there was no _means_ for us to do our own material transformations. In other
+words: No raw materials. There was simply the Dome. Its smooth, cold metallic
+walls, some assorted flora and fauna, the slots which birthed our material
+needs. The easier your job, the more society recognized your worth by returning
+to you more of your time. Sums wasn't the easiest, or least time consuming job,
+but for my age it was a sign of respect of my ability. An ability that could not
+begin to make headway on the problem at hand.
+
+I thought again about the offsets. It wasn't just the fact that the Manual had
+changed. Not that that wasnt a paradigm shifting event if it was true. It was
+the _way_ it had changed. It was like a blind man distinguishing objects by
+touch until he found the one with the right shape and texture. The blind man
+stuck with me. If another citizen was trying to change the Dome, would they not
+be a blind man? What extra-Manual insight do we have into the Dome? The answer,
+of course, is none, which is why the Dome has persisted in stasis for the whole
+of our civilization. The Dome is far too large and too complex to simply induce
+bit entropy at random in hopes of a meaningful change. No being of appreciable
+complexity could come to be this way -- things were designed, things followed
+order.
+
+If someone knew of a bit pattern to change the Dome to their end, but didn't
+know where to put it -- what then? I didn't know how this was possible, but this
+was how Alexander thought. Assume first, let the implications fall out,
+repeat. I kept thinking of the blind man. The blind man wants a specific
+fruit, of a specific shape. There are uncountably many fruit before him. He must
+have a way to discard vast swaths of fruit as too small or too large. I couldn't
+fathom how one could do so without
