@@ -243,5 +243,19 @@ know where to put it -- what then? I didn't know how this was possible, but this
 was how Alexander thought. Assume first, let the implications fall out,
 repeat. I kept thinking of the blind man. The blind man wants a specific
 fruit, of a specific shape. There are uncountably many fruit before him. He must
-have a way to discard vast swaths of fruit as too small or too large. I couldn't
-fathom how one could do so without
+have a way to discard vast swaths of fruit as too small or too large -- checking
+them one at a time was simply unfeasible. I couldn't fathom how one could do so
+without foreknowledge of the fruits, foreknowledge of the Dome.
+
+The pattern of replacing pages, moving on to a smaller section of the sector,
+and trying again; I couldn't piece together _what_ the mechanism was, but there
+had to be something there. The blind man must be eliminating the swaths of fruit
+wholesale. But, on second thought, it almost didn't matter what the mechanism
+was. The fact was, there was a pattern. There was intelligence. This was no
+simple hardware failure, no random permutations of pages in a sector with
+malformed bits. This was a search, a focused attempt to find just the right
+location to do...something. In fact, the speed with which the desired sector and
+page were found didn't remind me of a search.
+
+It reminded me of a hunt. And I had to find the hunter.
+
